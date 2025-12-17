@@ -9,7 +9,7 @@ A simple Python console program that calculates the final price of a pizza order
 - Input validation for all choices
 
 ## How to Run
-1. Install Python 3.
+1. Install Python 3
 2. Save the script as `pizza.py`.
 3. Run in terminal:
 
